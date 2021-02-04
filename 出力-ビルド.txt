@@ -1,0 +1,12 @@
+﻿リビルドを開始しました...
+1>------ すべてのリビルド開始: プロジェクト:Ats, 構成: Debug x64 ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(37,5): warning MSB4211: プロパティ "IntermediateOutputPath" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" で既に使用されています。
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(340,5): warning MSB4211: プロパティ "CleanFile" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (36,5)" で既に使用されています。
+1>stdafx.cpp
+1>Ats.cpp
+1>C:\Users\shuma\Downloads\ats1-2 (1)\Ats.cpp(45,53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+1>C:\Users\shuma\Downloads\ats1-2 (1)\Ats.cpp(56,28): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+1>   ライブラリ C:\Users\shuma\Downloads\ats1-2 (1)\x64\Debug\Ats.lib とオブジェクト C:\Users\shuma\Downloads\ats1-2 (1)\x64\Debug\Ats.exp を作成中
+1>Ats.vcxproj -> C:\Users\shuma\Downloads\ats1-2 (1)\x64\Debug\Ats.dll
+1>プロジェクト "Ats.vcxproj" のビルドが終了しました。
+========== すべてリビルド: 1 正常終了、0 失敗、0 スキップ ==========
